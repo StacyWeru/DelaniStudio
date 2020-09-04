@@ -67,3 +67,24 @@
     font-family: 'Alegreya Sans', sans-serif;
     font-size: 20px;
 }
+.container-fluid .whatWeDo{
+    padding-top: 20px;
+    
+}
+.container-fluid .whatWeDo h3{
+    padding: 10px;
+    font-family: 'Neucha', cursive;
+    font-size: 35px;
+}
+.col-md-4{
+    text-align: center;
+}
+.col-md-4 #designToggle{
+    display: none;
+}
+.col-md-4 #devToggle{
+    display: none;
+}
+.col-md-4 #productToggle{
+    display: none;
+}
