@@ -5,3 +5,17 @@ $(document).ready (function(){
     })
 
 })
+$(document).ready (function(){
+    $(".devIcon").click(function(){
+        $("#devToggle").toggle();
+        $("#mentToggle").toggle();
+    })
+
+})
+$(document).ready (function(){
+    $(".productIcon").click(function(){
+        $("#productToggle").toggle();
+        $("#manageToggle").toggle();
+    })
+
+})
