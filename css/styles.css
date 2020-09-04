@@ -105,3 +105,45 @@
     font-family: 'Alegreya Sans', sans-serif;
     font-size: 20px;
 }
+.portfolio .col-md-3{
+    column-gap: 40px;
+    column-count: auto;
+}
+.portfolio {
+    /*height: 650px;*/
+    padding-bottom: 50px;
+    padding-top: 60px;
+}
+.portfolio h3{
+    padding: 10px;
+    font-family: 'Neucha', cursive;
+    font-size: 35px; 
+}
+
+.portfolio.row{
+    align-content: space-between;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.portfolio.img{
+    display: block;
+}
+.portfolio.p{
+    
+    text-align: center;
+    display: none;
+    position: absolute;
+    font-size: 40px;
+    padding-top: 80px;
+    padding-left: 40px;
+}
+.column-md-3{
+    padding-left: 20px;
+    padding-right: 20px;
+    align-content: center;
+    display: flex;
+    margin-right: 35 px;
+    margin-left: 35 px;
+}
