@@ -1,0 +1,32 @@
+ .jumbotron{
+    background-image: url(../images/backgrounds/h_img.jpg);
+    background-size: cover;
+    height:768px;
+}
+.header{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+}
+.header img{
+    margin-top: 70px;
+    padding: 40px;
+}
+.header h1{
+    font-family: 'Epilogue', sans-serif;
+    font-size: 60px;
+    color: whitesmoke;
+}
+.header p{
+    font-family: 'Neucha', cursive;
+    font-size : 20px;
+    color: whitesmoke;
+}
+.mouse{
+    margin: auto;
+    bottom: 0px;
+    text-align: center;
+    padding-top: 160px;
+}
