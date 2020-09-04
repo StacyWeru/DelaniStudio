@@ -97,3 +97,11 @@
 .col-md-4 .productIcon {
     cursor: pointer;
 }
+.whatWeDo .col-md-4 h5{
+    font-weight: bolder;
+    padding: 10px;
+}
+.whatWeDo .col-md-4 p{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 20px;
+}
