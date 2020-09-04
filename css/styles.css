@@ -1,4 +1,4 @@
- .jumbotron{
+ .jumbotron {
     background-image: url(../images/backgrounds/h_img.jpg);
     background-size: cover;
     height:768px;
@@ -40,6 +40,30 @@
     font-size: 35px;
 }
 .aboutUs p{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 20px;
+}
+.container-fluid .services{
+    background-image: url(../images/backgrounds/s_image.jpg);
+    background-size: cover;
+    width:100%;
+    padding:70px 0px 70px 0px;
+    margin: 0;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    max-width: 10000px;
+    text-align: center;
+    color: whitesmoke;
+}
+.services h3{
+    font-family: 'Neucha', cursive;
+    font-size: 35px;
+}
+.services p{
     font-family: 'Alegreya Sans', sans-serif;
     font-size: 20px;
 }
