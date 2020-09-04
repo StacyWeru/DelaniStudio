@@ -88,3 +88,12 @@
 .col-md-4 #productToggle{
     display: none;
 }
+.col-md-4 .designIcon {
+    cursor: pointer;
+}
+.col-md-4 .devIcon {
+    cursor: pointer;
+}
+.col-md-4 .productIcon {
+    cursor: pointer;
+}
