@@ -147,3 +147,41 @@
     margin-right: 35 px;
     margin-left: 35 px;
 }
+.container-fluid .contact{
+    background-image: url(../images/backgrounds/c_image.jpg);
+    background-size: cover;
+    margin-top: 20px;
+}
+#name{
+    background-blend-mode: overlay;
+    background-color: transparent;
+    padding-right: 5px;
+    margin-right: 5px;
+}
+#email{
+    background-color: transparent;
+    padding-left: 5px;
+    margin-left: 5px;
+}
+textarea{
+    background-color: transparent;
+}
+button{
+    position: relative;
+    top:20px;
+    right:50px;
+}
+.social{
+    justify-content: center;
+    padding: 10px;
+}
+footer{
+    padding:0px;
+    text-align: center;
+    font-family:'Baloo Paaji 2', cursive;
+
+}
+.placeholder{
+    color: white;
+
+}
